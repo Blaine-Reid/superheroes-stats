@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Super Hero Stat Search App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was my first attempt at using Material UI and it came with its challenges, but I hope it doesn't show. Enjoy
 
 ## Available Scripts
 
@@ -39,11 +39,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Useage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This application is simplistic in its use. Using type your favorite super heroes name into the search bar and then click on the card that is shown to see the stats gathered about your favorite super hero.
 
 ### Code Splitting
 
